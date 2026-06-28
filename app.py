@@ -34,9 +34,17 @@ def main():
 
         result = graph.invoke(state)
 
-        print("\nAssistant:")
+        print(f"\nDetected Intent : {result['intent']}")
+        print(f"Approval Needed : {result['approval_required']}")
 
+        if result.get("retrieved_context"):
+            print("\nRetrieved Context:")
+            print(result["retrieved_context"])
+            print("-" * 40)
+
+        print("\nAssistant:")
         print(result["response"])
+
 
 
 if __name__ == "__main__":
