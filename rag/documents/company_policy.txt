@@ -1,0 +1,19 @@
+COMPANY POLICY & REFUND GUIDELINES
+
+1. Billing & Refund Policy:
+Customers are billed on either a monthly or annual subscription cycle. Refund requests must be evaluated based on the billing terms. 
+Any refund request for an annual subscription is considered a HIGH-RISK transaction. 
+All high-risk refund requests require explicit approval from a Support Supervisor or Manager before they can be processed by the Billing department.
+
+2. Subscription Cancellations:
+Customers may request to cancel their subscriptions at any time. 
+If a customer requests to cancel an active annual subscription, this is classified as a HIGH-RISK request.
+Such requests require manager or supervisor approval to verify eligibility and process any potential pro-rated credits.
+
+3. Account Closure:
+A request to close or delete a customer account is a critical security action and is flagged as HIGH-RISK.
+Before an account can be closed, the request must be approved by a Support Supervisor to verify that no active billing agreements or pending balances remain.
+
+4. Compensation:
+Any request for compensation (monetary credit, billing adjustment, or free service extension) due to service disruption is flagged as HIGH-RISK.
+Support agents are not authorized to issue compensation without prior Supervisor approval.

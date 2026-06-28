@@ -1,0 +1,8 @@
+venv/
+__pycache__/
+memory.db
+.chroma/
+.idea/
+.vscode/
+rag/chroma_db/
+

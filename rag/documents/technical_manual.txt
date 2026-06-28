@@ -1,0 +1,17 @@
+TECHNICAL SUPPORT & TROUBLESHOOTING MANUAL
+
+1. File Upload Issues and Crashes:
+If the application crashes when uploading a file, it is typically due to one of the following reasons:
+- File Size Limit: The application has a maximum upload limit of 50 MB per file. Uploading files larger than 50 MB will cause a buffer overflow, resulting in a sudden crash.
+- File Type Restrictions: Supported file types are PDF, CSV, PNG, and JPEG. Uploading unsupported formats (like executable or batch files) will trigger a security exception and crash the application.
+- Corrupted Upload Buffer: A corrupted cache or session token can cause the upload process to fail.
+
+Troubleshooting Steps for Upload Crashes:
+Step 1: Check the file size. If it exceeds 50 MB, compress the file or split it into smaller segments before uploading.
+Step 2: Ensure the file extension is supported (PDF, CSV, PNG, or JPEG).
+Step 3: Clear browser cache/application data, restart the application, and try uploading again.
+Step 4: Enable Debug Mode (go to Settings > Developer Options > Enable Debug Logs) to capture the exact stack trace and log files. Submit logs to technical support.
+
+2. Installation and Configurations:
+- Ensure you have the latest software version installed. Run `update-client` in the terminal to verify.
+- If config errors persist, check if config.json matches the schema in the installation folder.

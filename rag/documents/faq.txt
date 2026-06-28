@@ -1,0 +1,17 @@
+FREQUENTLY ASKED QUESTIONS (FAQ)
+
+Q: I forgot my account password. How do I reset it?
+A: You can reset your password using the "Forgot Password" link on the login page:
+1. Go to the login page and click "Forgot Password".
+2. Enter your registered email address.
+3. You will receive a password reset link via email. Click the link and follow the instructions to set a new password.
+If you do not receive the email, please check your spam folder or verify with Support that the email address on file is correct.
+
+Q: How do I update my profile or change my email address?
+A: Go to Settings > Profile, update your information, and click "Save Changes". Changing your email address will require re-verification via a link sent to your new email.
+
+Q: How do I request account closure?
+A: To close your account, navigate to Settings > Account > Close Account. Note that account closure is permanent and all data will be deleted. Any pending subscription will be cancelled immediately. As a security measure, this action requires approval from a Support Supervisor before final deletion is processed.
+
+Q: Can I access my billing invoices?
+A: Yes. All invoices are available under Settings > Billing > Invoice History. You can download them as PDF files.

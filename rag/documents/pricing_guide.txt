@@ -1,0 +1,24 @@
+PRICING & SUBSCRIPTION GUIDE
+
+Our software is offered under three main subscription tiers:
+
+1. Starter Plan:
+- Price: $19.99 per user / month (billed monthly) or $15.99 per user / month (billed annually).
+- Ideal for small teams or individuals.
+- Includes basic project management tools, 10 GB file storage, and email support.
+
+2. Pro Plan:
+- Price: $49.99 per user / month (billed monthly) or $39.99 per user / month (billed annually).
+- Ideal for growing businesses.
+- Includes advanced integrations, custom branding, 100 GB file storage, and priority email & chat support.
+
+3. Enterprise Plan:
+- Price: Custom pricing (contact Sales at sales@company.com).
+- Tailored for large organizations.
+- Includes dedicated account manager, unlimited file storage, custom SLA, and 24/7 phone support.
+
+Free Trial:
+We offer a 14-day free trial on the Starter and Pro plans. No credit card is required to sign up. After the trial ends, the account will be temporarily frozen until a subscription is activated.
+
+Discounts:
+Non-profits and educational institutions are eligible for a 20% discount on all plans. Please submit a support ticket under the Billing department to apply.
